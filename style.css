@@ -1,0 +1,42 @@
+body {
+    
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+   
+   }
+   #div1{
+       margin: 0px;
+       padding: 0px;
+       background-color: white;
+       position: absolute;
+       
+   }
+   }
+   #div2{
+       margin: 0px;
+       padding: 0px;
+       background-color: red;
+       position: absolute;
+       top:50%;
+       margin-bottom:0px ;
+   }
+   img{
+       padding-top:20%;
+       width: 50%;
+       position:absolute ;
+       margin-left:25%;
+       margin-right:25%;
+       top:50%;
+     
+    
+   }
+   p{
+       font-family:sensei;
+       color: red;
+       font-size: 85px;
+       font-weight: 800;
+   
+     text-align: center;
+       top:20%;
+   }
